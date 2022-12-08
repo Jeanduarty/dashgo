@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# dashgo 📈💜
 
-## Getting Started
+O projeto é um esboço e no momento não está realizado, porém, se trata de uma aplicação web feito em next aonde terá as funcionalidades de criar usuario, listas os usuários, autenticação de usuário, dashboard personalizado entre outros. 
 
-First, run the development server:
+## Screenshots
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Tela de SignIn
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img align="center" src="https://github.com/Jeanduarty/dashgo/blob/main/public/signIn.png">
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- Tela de SignIn quando as credenciais estão incorretas
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<img align="center" src="https://github.com/Jeanduarty/dashgo/blob/main/public/signInIndalidCredentials.png">
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Tela do dashboard
 
-## Learn More
+<img align="center" src="https://github.com/Jeanduarty/dashgo/blob/main/public/dashboard.png">
 
-To learn more about Next.js, take a look at the following resources:
+- Tela de usuários
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img align="center" src="https://github.com/Jeanduarty/dashgo/blob/main/public/users.png">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Tela de da criação de um novo usuário  
 
-## Deploy on Vercel
+<img align="center" src="https://github.com/Jeanduarty/dashgo/blob/main/public/createUser.png">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Tela de da criação de um novo usuário  quando as credenciais estão inválidas
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img align="center" src="https://github.com/Jeanduarty/dashgo/blob/main/public/createUserInvalidCredentials.png">
+
+## Tecnologias utilizadas 💻
+
+**React, Next, Chakra UI, React Hook Form** 
