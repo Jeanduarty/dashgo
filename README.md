@@ -1,6 +1,6 @@
 # dashgo 📈💜
 
-O projeto é um esboço e no momento não está realizado, porém, se trata de uma aplicação web feito em next aonde terá as funcionalidades de criar usuario, listas os usuários, autenticação de usuário, dashboard personalizado entre outros. 
+O projeto é um esboço e no momento não está realizado, porém, se trata de uma aplicação web feito em Next aonde terá as funcionalidades de criar usuario, listas os usuários, autenticação de usuário, dashboard personalizado entre outros. 
 
 ## Screenshots
 
